@@ -40,5 +40,5 @@ continue_button2 = WebDriverWait(driver, 10).until(
 continue_button2.click()
 time.sleep(2)
 
-time.sleep(100)
+
 driver.quit()
