@@ -17,7 +17,7 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların bilgisayarınızda
 - Python 3.11
 - Selenium kütüphanesi
 - İlgili tarayıcı sürücüsü ChromeDriver
-- 
+  
 Kurulum için şu komutu kullanabilirsiniz:
 
 ```bash
